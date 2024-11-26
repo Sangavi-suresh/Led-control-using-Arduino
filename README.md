@@ -2,7 +2,7 @@
 ## REGISTERE NUMBER: 212222230130
 ## EXP:1
 
-# Led-control-using-Arduino
+# Led control using Arduino and push button
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
